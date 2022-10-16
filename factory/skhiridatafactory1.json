@@ -1,0 +1,9 @@
+{
+	"name": "skhiridatafactory1",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad467522-fcc3-4a50-ba2d-0e795206e298",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
