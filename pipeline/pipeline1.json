@@ -1,7 +1,0 @@
-{
-	"name": "pipeline1",
-	"properties": {
-		"description": "first pipeline testing",
-		"annotations": []
-	}
-}
